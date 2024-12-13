@@ -51,13 +51,3 @@ cargo test
 The trade engine code can be tested by running the provided tests under `#[cfg(test)]`. To view test cases and examples, check the `src` directory.
 
 ---
-
-## Contributing
-
-Contributions are welcome! If you have suggestions or feature requests, feel free to open an issue or submit a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
